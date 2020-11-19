@@ -23,7 +23,7 @@ The following functionality is completed:
 
 Here's a video of the game in action:
 
-![](Concentration.gif)
+<img src="Concentration.gif" title="Video Walkthrough" alt="Video Walkthrough" width="400" />
 
 ## Notes
 
