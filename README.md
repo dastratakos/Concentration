@@ -3,17 +3,21 @@
 ## Dean Stratakos
 ### March 31, 2020
 
-**Concentration** is a game.
+[**Concentration**](https://en.wikipedia.org/wiki/Concentration_(card_game)) is
+a card game in which the player tries to match pairs of cards together by
+flipping over only two at a time.
 
-Time spent: **40** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Functionality 
 
 The following functionality is completed:
 
 * [x] The cards have a flip animation when tapped on.
-* [x] 2
-* [x] 3
+* [x] The theme of the emojis on the cards is randomized each game.
+* [x] Cards are shuffled for every new game.
+* [x] The cards have a custom design.
+* [x] Portrait and landscape orientations are supported on all device sizes.
 
 ## Video Walkthrough
 
