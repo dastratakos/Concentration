@@ -14,8 +14,10 @@ Time spent: **20** hours spent in total
 The following functionality is completed:
 
 * [x] The cards have a flip animation when tapped on.
-* [x] The theme of the emojis on the cards is randomized each game.
-* [x] Cards are shuffled for every new game.
+* [x] The New Game button picks a new emoji theme for the cards and re-shuffles
+them.
+* [x] A score is shown at the bottom, giving 2 poitns for every match and penalizing
+1 point for every previously seen card that is mismatched.
 * [x] The cards have a custom design.
 * [x] Portrait and landscape orientations are supported on all device sizes.
 
